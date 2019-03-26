@@ -30,7 +30,7 @@
       state: present
       network_name: int_network
       name: int_subnet
-      cidr: 10.10.10.0/24
+      cidr: 20.20.20.0/24
       dns_nameservers:
          - 8.8.8.7
          - 8.8.8.8
